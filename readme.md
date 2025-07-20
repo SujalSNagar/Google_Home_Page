@@ -1,5 +1,5 @@
-# Google Homepage
+# Google Homepage Clone
 
-Developed Google Homepage Using HTML and CSS
+Developed Google Homepage Clone Using HTML and CSS
 
 Author - Sujal Nagar
